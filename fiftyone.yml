@@ -1,0 +1,9 @@
+name: "@jacobmarks/youtube"
+description: Play YouTube videos in the FiftyOne App!
+version: 1.0.0
+fiftyone:
+  version: "*"
+license: Apache 2.0
+url: "https://github.com/jacobmarks/youtube-player-plugin/blob/main/README.md"
+operators:
+  - open_youtube_player_panel
