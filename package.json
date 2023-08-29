@@ -1,5 +1,5 @@
 {
-    "name": "@jacobmarks/youtube-panel-plugin",
+    "name": "@jacobmarks/youtube_panel_plugin",
     "version": "1.0.0",
     "main": "src/YouTubePlayerPlugin.tsx",
     "license": "MIT",
