@@ -1,4 +1,4 @@
-name: "@jacobmarks/youtube"
+name: "@jacobmarks/youtube-panel-plugin"
 description: Play YouTube videos in the FiftyOne App!
 version: 1.0.0
 fiftyone:
