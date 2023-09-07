@@ -40,5 +40,5 @@ There are three ways to execute this operator:
 2. Click on the `+` icon next to the `Samples` tab and select `YouTube Player` from the dropdown menu:
 ![youtube_open_option2](https://github.com/jacobmarks/fiftyone-youtube-panel-plugin/assets/12500356/aa16e409-e16c-402c-a4e1-ccbfb514ad67)
 
-3. Press “`” to pull up your list of operators, and select `open_youtube_player_panel`:
+3. Press "\`" to pull up your list of operators, and select `open_youtube_player_panel`:
 ![youtube_open_option3](https://github.com/jacobmarks/fiftyone-youtube-panel-plugin/assets/12500356/1500bf9f-0ae2-4be2-9361-1230f13f2188)
