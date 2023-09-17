@@ -12,12 +12,13 @@ import fiftyone.operators.types as types
 class OpenYouTubePanel(foo.Operator):
     @property
     def config(self):
-        return foo.OperatorConfig(
+        _config = foo.OperatorConfig(
             name="open_youtube_player_panel",
             label="Open Youtube Player Panel",
-            icon="/assets/youtube.svg",
             unlisted=False,
         )
+        _config.icon = "/assets/youtube.svg"
+        return _config
 
     def resolve_placement(self, ctx):
         return types.Placement(
