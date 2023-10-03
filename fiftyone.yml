@@ -2,7 +2,7 @@ name: "@jacobmarks/youtube_panel_plugin"
 description: Play YouTube videos in the FiftyOne App!
 version: 1.0.0
 fiftyone:
-  version: "*"
+  version: ">=0.21.0"
 license: Apache 2.0
 url: "https://github.com/jacobmarks/youtube-player-plugin/blob/main/README.md"
 operators:
