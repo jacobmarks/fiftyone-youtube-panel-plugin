@@ -4,16 +4,14 @@
 
 This plugin allows you to play YouTube videos in a panel the FiftyOne App!
 
-It demonstrates how to do the following:
-
-- Use a custom React component in a panel
-- Play videos in a new panel
-- Use a custom icon in the menu bar
-
 ## Usage
 
 The plugin comes with several FiftyOne and FiftyOne Plugins YouTube videos that
 the user can play. You can also play other YouTube videos by entering the URL!
+
+## Watch On Youtube
+[![Video Thumbnail](https://img.youtube.com/vi/4rLigzm3RMA/0.jpg)](https://www.youtube.com/watch?v=4rLigzm3RMA&list=PLuREAXoPgT0RZrUaT0UpX_HzwKkoB-S9j&index=4)
+
 
 ## Installation
 
